@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AULAGIT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a0200bd3afcd6fb8b6080a5c5e7d5448b9b394")]
 [assembly: System.Reflection.AssemblyProductAttribute("AULAGIT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AULAGIT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
